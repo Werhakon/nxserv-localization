@@ -5,23 +5,23 @@ module.exports = {
 			[
 				"Section Principale",
 				[
-					"Il est interdit d'utiliser des logiciels ou des bugs, qui te donne un avantage sur les autres joueurs (Cheats,BugUse).",
+					"Il est interdit d'utiliser des logiciels ou des bugs qui donnent un avantage sur les autres joueurs (Cheats, Utilisation de bugs).",
 					"Il est interdit de perturber le fonctionnement du serveur.",
-					"Il est interdit de d'outrepasser le ban d'un compte.",
-					`Les joueurs doivent informer l'administration sur un problème important, qui peut donner la capacité au serveur de crash ou de donner un désavantage sur les autres joueurs.
+					"Il est interdit d'outrepasser le ban d'un compte.",
+					`Les joueurs doivent informer l'administration d'un problème important qui peut donner la capacité au serveur de crash ou de donner un désavantage sur les autres joueurs.
 					<br>Il est punissable de posséder et de cacher de telles informations, ainsi que de la transmettre à d'autres joueurs.`,
-					"Ton nom ne doit pas avoir des mots avec différentes lettres de différentes langues."
+					"Votre nom ne doit pas contenir des caractères provenant d'un autre langage."
 				]
 			],
 			[
 				"Règles du chat",
 				[
-					"Il n'est pas recommandé d'insulter d'autres joueurs.",
+					"Soyez respectueux envers les autres joueurs.",
 					"Diverses affirmations ressenties et insensées (\"ce serveur est nul\", \"tout est clair avec vous\", \"quel admin est ici...\" et autres) va seulement vous mener vers un ban.",
 					"Les discriminations basées sur le sexe d'une personne sont interdites..",
 					"Le harcèlement sexuel est interdit.",
 					"Il est interdit de faire de la publicité pour des serveurs, des communautés, des groupes steam sous toutes les formes.",
-					"Il est interdit de répéter le même message dans un court laps de temps.",
+					"Il est interdit de spammer des messages.",
 					"Il est interdit d'envoyer un message en Publique (inter-serveur) chat, qui sont inutiles en dehors de ce serveur.",
 					"Tu devras utiliser le chat global pour contacter un administrateur uniquement dans les cas critiques (quelqu'un essaie de faire crash le serveur ou utilise un cheat).",
 					"N'utilise pas le chat vocal pour faire des sons forts, des grincements et d'autres choses déplaisantes à écouter."
